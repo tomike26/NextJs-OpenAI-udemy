@@ -3,7 +3,7 @@ import React from 'react'
 const QueryPage = () => {
   return (
     <div>
-        <h1>QueryPage</h1>
+        <h1 className='text-7xl'>QueryPage</h1>
         </div>
   )
 }

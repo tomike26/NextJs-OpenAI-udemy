@@ -3,7 +3,7 @@ import React from 'react'
 const ClientPage = () => {
   return (
     <div>
-        <h1>ClientPage</h1>
+        <h1 className='text-7xl '>ClientPage</h1>
         </div>
   )
 }
